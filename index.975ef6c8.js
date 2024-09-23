@@ -27090,9 +27090,9 @@ var _stylesCss = require("./styles.css");
     name: "Andres Felipe Diago",
     title: "Web Developer",
     email: "andresdiag@unicauca.edu.co",
-    gitHub: "https://github.com/AndresDiagoM",
+    gitHub: "AndresDiagoM",
     instagram: "microsoft",
-    linkedIn: "www.linkedin.com/in/andres-felipe-diago-matta",
+    linkedIn: "andres-felipe-diago-matta",
     medium: "",
     twitter: "microsoft",
     youTube: "Code"
